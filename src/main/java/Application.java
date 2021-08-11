@@ -10,7 +10,7 @@ public class Application {
 	
 	 @RequestMapping("/test")
 	    String index() {
-	        return "Hello World!";
+	        return "Hello World!!!";
 	    }
 
 	public static void main(String[] args) {
